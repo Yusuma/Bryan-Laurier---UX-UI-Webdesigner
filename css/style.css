@@ -1115,6 +1115,10 @@ Contact Section
     transition: all 0.3s ease;
 }
 
+.contact-info h2 {
+    font-family: 'overgrowdemo';
+}
+
 .contact-info-item .social-links a:nth-child(1) {
     color: var(--main-color);
 }
@@ -1124,7 +1128,11 @@ Contact Section
 }
 
 .contact-info-item .social-links a:nth-child(3) {
-    color: black;
+    color: white;
+}
+
+.contact-info-item .social-links a:nth-child(4) {
+    color: #A970FF;
 }
 
 .contact-info-item .social-links a:hover {
