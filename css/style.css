@@ -777,43 +777,23 @@ About Section
 }
 
 .home-text .skill-item:nth-child(3) {
-    color: #F0BE25;
-}
-
-.home-text .skill-item:nth-child(4) {
-    color: #6C7EB7;
-}
-
-.home-text .skill-item:nth-child(5) {
-    color: #5B4084;
-}
-
-.home-text .skill-item:nth-child(6) {
-    color: #B900FF;
-}
-
-.home-text .skill-item:nth-child(7) {
     color: #4BA7CD;
 }
 
-.home-text .skill-item:nth-child(8) {
+.home-text .skill-item:nth-child(4) {
     color: #00C8FC;
 }
 
-.home-text .skill-item:nth-child(9) {
-    color: #FF26BE;
-}
-
-.home-text .skill-item:nth-child(10) {
+.home-text .skill-item:nth-child(5) {
     color: #D8A1FF;
 }
 
-.home-text .skill-item:nth-child(11) {
-    color: #FF7F18;
+.home-text .skill-item:nth-child(6) {
+    color: rgb(255, 126, 126);
 }
 
-.home-text .skill-item:nth-child(12) {
-    color: #FF408C;
+.home-text .skill-item:nth-child(7) {
+    color: rgb(121, 121, 255);
 }
 
 
