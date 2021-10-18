@@ -751,6 +751,74 @@ About Section
     color: #FF408C;
 }
 
+
+/* ------ */
+
+.home-text .skills {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.home-text .skill-item {
+    background-color: var(--black-alpha-40);
+    padding: 5px 15px;
+    text-transform: capitalize;
+    margin: 0 10px 10px 0;
+    border-radius: 20px;
+    filter: drop-shadow(0 0 0.20rem var(--black-alpha-90));
+}
+
+.home-text .skill-item:nth-child(1) {
+    color: #EA2D07;
+}
+
+.home-text .skill-item:nth-child(2) {
+    color: #15A0DB;
+}
+
+.home-text .skill-item:nth-child(3) {
+    color: #F0BE25;
+}
+
+.home-text .skill-item:nth-child(4) {
+    color: #6C7EB7;
+}
+
+.home-text .skill-item:nth-child(5) {
+    color: #5B4084;
+}
+
+.home-text .skill-item:nth-child(6) {
+    color: #B900FF;
+}
+
+.home-text .skill-item:nth-child(7) {
+    color: #4BA7CD;
+}
+
+.home-text .skill-item:nth-child(8) {
+    color: #00C8FC;
+}
+
+.home-text .skill-item:nth-child(9) {
+    color: #FF26BE;
+}
+
+.home-text .skill-item:nth-child(10) {
+    color: #D8A1FF;
+}
+
+.home-text .skill-item:nth-child(11) {
+    color: #FF7F18;
+}
+
+.home-text .skill-item:nth-child(12) {
+    color: #FF408C;
+}
+
+
+/* -------- */
+
 .about-tabs {
     margin-top: 20px;
 }
