@@ -797,6 +797,11 @@ About Section
     color: rgb(121, 121, 255);
 }
 
+.home-text .skill-item:hover {
+    color: var(--white);
+    background-color: var(--main-color);
+}
+
 
 /* -------- */
 
