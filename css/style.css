@@ -859,6 +859,11 @@ About Section
     color: rgb(230, 91, 91);
 }
 
+.universe p span {
+    color: var(--cyan-light);
+    filter: drop-shadow(0 0 0.20rem var(--cyan-light));
+}
+
 
 /* ------ */
 
