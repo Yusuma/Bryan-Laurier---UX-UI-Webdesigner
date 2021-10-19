@@ -752,6 +752,14 @@ About Section
     color: #FF408C;
 }
 
+.about-text .skill-item:nth-child(14) {
+    color: var(--grey);
+}
+
+.about-text .skill-item:nth-child(13) {
+    color: #9999FF;
+}
+
 .universe .skills {
     display: flex;
     flex-wrap: wrap;
