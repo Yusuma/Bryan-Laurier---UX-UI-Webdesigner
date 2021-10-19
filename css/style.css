@@ -1083,6 +1083,7 @@ Portfolio Section
 .portfolio-section p {
     text-align: center;
     justify-content: center;
+    padding-bottom: 50px;
 }
 
 
