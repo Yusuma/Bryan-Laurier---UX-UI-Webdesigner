@@ -813,8 +813,18 @@ About Section
     color: lightcyan;
 }
 
+.languages .skill-item {
+    background-color: var(--black-alpha-40);
+    padding: 5px 15px;
+    text-transform: capitalize;
+    margin: 0 10px 10px 0;
+    border-radius: 20px;
+    filter: drop-shadow(0 0 0.20rem var(--black-alpha-90));
+    cursor: pointer;
+}
+
 .languages .skill-item:nth-child(1) {
-    color: rgb(92, 92, 233);
+    color: rgb(119, 119, 231);
 }
 
 .languages .skill-item:nth-child(2) {
