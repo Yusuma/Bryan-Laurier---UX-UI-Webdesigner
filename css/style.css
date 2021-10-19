@@ -1080,6 +1080,11 @@ Portfolio Section
     display: none;
 }
 
+.portfolio-section p {
+    text-align: center;
+    justify-content: center;
+}
+
 
 /*Portfolio Popup*/
 
