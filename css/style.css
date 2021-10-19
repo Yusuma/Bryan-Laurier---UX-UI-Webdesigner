@@ -787,6 +787,32 @@ About Section
     color: #E77C1F;
 }
 
+.hobby .skill-item {
+    background-color: var(--black-alpha-40);
+    padding: 5px 15px;
+    text-transform: capitalize;
+    margin: 0 10px 10px 0;
+    border-radius: 20px;
+    filter: drop-shadow(0 0 0.20rem var(--black-alpha-90));
+    cursor: pointer;
+}
+
+.hobby .skill-item:nth-child(1) {
+    color: #D8A1FF;
+}
+
+.hobby .skill-item:nth-child(2) {
+    color: yellow;
+}
+
+.hobby .skill-item:nth-child(3) {
+    color: var(--pink-light);
+}
+
+.hobby .skill-item:nth-child(4) {
+    color: lightcyan;
+}
+
 
 /* ------ */
 
