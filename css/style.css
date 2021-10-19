@@ -35,6 +35,7 @@ Variables
     --white: #ffffff;
     --black-alpha-90: rgba(0, 0, 0, 0.90);
     --black-alpha-40: rgba(0, 0, 0, 0.40);
+    --black-alpha-70: rgba(0, 0, 0, 0.70);
     --backdrop-filter-blur: blur(20px);
     --purple-mid: #791e94;
     --purple-to-orange: linear-gradient(90deg, rgba(249, 200, 14, 1) 0%, rgba(255, 56, 100, 1) 35%, rgba(121, 30, 148, 1) 100%);
@@ -985,7 +986,7 @@ Portfolio Section
 }
 
 .pp-content {
-    background-color: var(--black-alpha-90);
+    background-color: var(--black-alpha-70);
     padding: 30px;
     border-radius: 30px;
     max-width: 900px;
