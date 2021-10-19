@@ -813,6 +813,18 @@ About Section
     color: lightcyan;
 }
 
+.languages .skill-item:nth-child(1) {
+    color: rgb(92, 92, 233);
+}
+
+.languages .skill-item:nth-child(2) {
+    color: white;
+}
+
+.languages .skill-item:nth-child(3) {
+    color: rgb(230, 91, 91);
+}
+
 
 /* ------ */
 
