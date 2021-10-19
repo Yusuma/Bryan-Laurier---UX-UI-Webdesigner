@@ -910,6 +910,10 @@ About Section
     color: rgb(121, 121, 255);
 }
 
+.home-text .skill-item:nth-child(8) {
+    color: #4F3C6C;
+}
+
 .home-text .skill-item:hover {
     color: var(--white);
     background-color: var(--main-color);
