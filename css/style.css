@@ -760,12 +760,12 @@ About Section
     color: #9999FF;
 }
 
-.universe .skills {
+.soft .skills {
     display: flex;
     flex-wrap: wrap;
 }
 
-.universe .skill-item {
+.soft .skill-item {
     background-color: var(--black-alpha-40);
     padding: 5px 15px;
     text-transform: capitalize;
@@ -775,39 +775,39 @@ About Section
     cursor: pointer;
 }
 
-.universe .skill-item:nth-child(1) {
+.soft .skill-item:nth-child(1) {
     color: grey;
 }
 
-.universe .skill-item:nth-child(1) span {
+.soft .skill-item:nth-child(1) span {
     color: yellow;
 }
 
-.universe .skill-item:nth-child(2) {
+.soft .skill-item:nth-child(2) {
     color: #E8B63D;
 }
 
-.universe .skill-item:nth-child(2) span {
+.soft .skill-item:nth-child(2) span {
     color: #C8D0D4;
 }
 
-.universe .skill-item:nth-child(3) {
+.soft .skill-item:nth-child(3) {
     color: white;
 }
 
-.universe .skill-item:nth-child(4) {
+.soft .skill-item:nth-child(4) {
     color: greenyellow;
 }
 
-.universe .skill-item:nth-child(4) span {
+.soft .skill-item:nth-child(4) span {
     color: #E77C1F;
 }
 
-.universe .skill-item:nth-child(5) {
+.soft .skill-item:nth-child(5) {
     color: #394e5f;
 }
 
-.universe .skill-item:nth-child(5) span {
+.soft .skill-item:nth-child(5) span {
     color: #5FBFA0;
 }
 
