@@ -864,6 +864,7 @@ About Section
 }
 
 .universe p span {
+    font-weight: 700;
     color: var(--cyan-light);
     filter: drop-shadow(0 0 0.20rem var(--cyan-light));
 }
