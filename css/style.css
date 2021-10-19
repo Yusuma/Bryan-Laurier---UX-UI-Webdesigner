@@ -601,27 +601,28 @@ Home Section
     color: var(--white);
     font-weight: 300;
     text-transform: capitalize;
-    margin: 0 0 -10px;
+    margin-bottom: -30px;
 }
 
 .home-text h1 {
-    font-size: 65px;
+    font-size: 60px;
     font-family: 'overgrowdemo';
     font-weight: 600;
     color: var(--white);
     text-transform: capitalize;
-    margin: 0 0 -15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
     z-index: -1;
     filter: drop-shadow(0 0 0.20rem var(--black-alpha-90));
 }
 
 .home-text h2 {
-    font-size: 20px;
+    font-size: 30px;
     font-family: 'overgrowdemo';
     color: var(--main-color);
     text-transform: capitalize;
     font-weight: normal;
-    margin: 0 0 30px;
+    margin-bottom: -30px;
     filter: drop-shadow(0 0 0.20rem var(--black-alpha-90));
 }
 
