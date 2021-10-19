@@ -611,7 +611,7 @@ Home Section
     color: var(--white);
     text-transform: capitalize;
     margin-top: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 1px;
     z-index: -1;
     filter: drop-shadow(0 0 0.20rem var(--black-alpha-90));
 }
