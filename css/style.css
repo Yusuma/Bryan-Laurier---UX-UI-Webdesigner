@@ -820,6 +820,36 @@ About Section
     color: orangered;
 }
 
+.universe .skill-item {
+    background-color: var(--black-alpha-40);
+    padding: 5px 15px;
+    text-transform: capitalize;
+    margin: 0 10px 10px 0;
+    border-radius: 20px;
+    filter: drop-shadow(0 0 0.20rem var(--black-alpha-90));
+    cursor: pointer;
+}
+
+.universe .skill-item:nth-child(1) {
+    color: var(--pink-other);
+}
+
+.universe .skill-item:nth-child(2) {
+    color: red;
+}
+
+.universe .skill-item:nth-child(3) {
+    color: plum;
+}
+
+.universe .skill-item:nth-child(4) {
+    color: yellow;
+}
+
+.universe .skill-item:nth-child(5) {
+    color: green;
+}
+
 .hobby .skill-item {
     background-color: var(--black-alpha-40);
     padding: 5px 15px;
