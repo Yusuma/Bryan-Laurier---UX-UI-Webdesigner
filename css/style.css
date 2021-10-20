@@ -816,6 +816,10 @@ About Section
     color: #85C744;
 }
 
+.soft .skill-item:nth-child(7) {
+    color: orangered;
+}
+
 .hobby .skill-item {
     background-color: var(--black-alpha-40);
     padding: 5px 15px;
