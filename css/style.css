@@ -1470,16 +1470,24 @@ Footer
     top: 90%;
     right: 0px;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     text-align: center;
 }
 
 .footer ul {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     text-align: center;
 }
 
 .footer ul li {
     margin-left: 20px;
+}
+
+.footer ul li a {
+    color: white;
+}
+
+.footer ul li a:hover {
+    color: var(--pink-other)
 }
