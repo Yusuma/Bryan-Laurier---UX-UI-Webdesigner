@@ -1486,7 +1486,7 @@ Footer
 }
 
 .footer ul li a {
-    color: white;
+    color: var(--cyan-light);
     font-weight: 600;
 }
 
