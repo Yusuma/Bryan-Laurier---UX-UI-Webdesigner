@@ -1487,10 +1487,12 @@ Footer
 }
 
 .footer ul li a {
-    color: black;
+    color: var(--blue-light);
     font-weight: 600;
+    filter: drop-shadow(0 0 0.20rem var(--black-alpha-90));
 }
 
 a.link:hover {
-    color: white;
+    color: var(--pink-light);
+    filter: drop-shadow(0 0 0.20rem var(--black-alpha-90));
 }
