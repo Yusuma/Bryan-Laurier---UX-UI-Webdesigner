@@ -576,18 +576,6 @@ button {
 
 
 /*--------------
-Footer
-----------------*/
-
-.footer {
-    top: 100%;
-    margin-top: 10%;
-    height: 50px;
-    background-color: var(--black-alpha-70);
-}
-
-
-/*--------------
 Home Section
 ----------------*/
 
@@ -1395,4 +1383,28 @@ Responsive
     .contact-info {
         padding: 30px 15px;
     }
+}
+
+
+/*--------------
+Responsive
+----------------*/
+
+
+/* .footer {
+    height: 90px;
+    width: 100%;
+    background-color: var(--black-alpha-40);
+    border-radius: 0px 0px 30px 30px;
+} */
+
+.footer ul {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.footer ul li {
+    margin-left: 5%;
 }
