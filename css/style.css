@@ -1487,10 +1487,10 @@ Footer
 }
 
 .footer ul li a {
-    color: var(--blue-light);
+    color: black;
     font-weight: 600;
 }
 
 a.link:hover {
-    color: var(--pink-light)
+    color: white;
 }
