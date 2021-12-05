@@ -1366,6 +1366,34 @@ Footer
         text-align: center;
         padding-top: 10%;
     }
+<<<<<<< HEAD
     
     .footer ul li {
         margin-left: 5%;
+=======
+}
+
+
+/*--------------
+Responsive
+----------------*/
+
+
+/* .footer {
+    height: 90px;
+    width: 100%;
+    background-color: var(--black-alpha-40);
+    border-radius: 0px 0px 30px 30px;
+} */
+
+.footer ul {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.footer ul li {
+    margin-left: 5%;
+}
+>>>>>>> e048ca61030186f2cc5bd690a88e83aa18526031
