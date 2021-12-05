@@ -27,6 +27,7 @@ Variables
     --pink-other: #ff3864;
     --blue: #0000ff;
     --blue-dark: #18293c;
+    --blue-light: #80a5e7;
     --orange: #f9c80e;
     --grey: #b5b6aa;
     --pink-light: #efa2b4;
@@ -1486,7 +1487,7 @@ Footer
 }
 
 .footer ul li a {
-    color: var(--cyan-light);
+    color: var(--blue-light);
     font-weight: 600;
 }
 
