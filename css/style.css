@@ -1489,6 +1489,6 @@ Footer
     color: white;
 }
 
-.footer ul li a:hover {
+a.link:hover {
     color: var(--pink-other)
 }
