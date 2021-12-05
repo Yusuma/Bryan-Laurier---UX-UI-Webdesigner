@@ -1478,7 +1478,7 @@ Footer
     display: flex;
     justify-content: center;
     text-align: center;
-    padding-top: 10%;
+    /* padding-top: 10%; */
 }
 
 .footer ul li {
@@ -1491,5 +1491,5 @@ Footer
 }
 
 .footer ul li a:hover {
-    color: var(--purple-to-orange);
+    color: var(--pink-light);
 }
