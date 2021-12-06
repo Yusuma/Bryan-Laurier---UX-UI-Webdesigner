@@ -1487,12 +1487,12 @@ Footer
 }
 
 .footer ul li a {
-    color: var(--cyan-light);
+    color: var(--pink-other);
     font-weight: 600;
-    filter: drop-shadow(0 0 0.20rem var(--black-alpha-40));
+    filter: drop-shadow(0 0 0.20rem var(--black-alpha-70));
 }
 
 a.link:hover {
-    color: var(--pink-other);
-    filter: drop-shadow(0 0 0.20rem var(--black-alpha-40));
+    color: var(--purple-mid);
+    filter: drop-shadow(0 0 0.20rem var(--black-alpha-70));
 }
