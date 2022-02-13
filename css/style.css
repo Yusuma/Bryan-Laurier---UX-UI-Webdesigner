@@ -60,9 +60,9 @@ Global settings
 body {
     min-height: 100vh;
     /*background-image: linear-gradient(to bottom right, var(--pink-light), var(--cyan-light));*/
-    /* background-image: url('https://i.imgur.com/Bn7POCs.jpg'); */
-    background-image: url('https://i.imgur.com/a9xde7i.png');
-    background-attachment: fixed;
+    background-image: url('https://i.imgur.com/Bn7POCs.jpg');
+    /* background-image: url('https://i.imgur.com/a9xde7i.png'); */
+    background-attachment: scroll;
     font-size: 16px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 300;
